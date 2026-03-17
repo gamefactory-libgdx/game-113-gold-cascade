@@ -1,0 +1,55 @@
+{
+  "archetype": "plinko",
+  "selection": {
+    "sprites/object": {
+      "pack": "roguelike-modern-city",
+      "source": "kenney",
+      "path": "kenney/roguelike-modern-city",
+      "type": "object",
+      "theme": [
+        "urban"
+      ],
+      "png_count": 1039
+    },
+    "sprites/tileset": {
+      "pack": "free-castle-interior-pixel-game-backgrounds",
+      "source": "craftpix",
+      "path": "craftpix/backgrounds/free-castle-interior-pixel-game-backgrounds",
+      "type": "tileset",
+      "theme": [
+        "fantasy"
+      ],
+      "png_count": 4
+    },
+    "sprites/ui": {
+      "pack": "free-tds-modern-gui-pixel-art",
+      "source": "craftpix",
+      "path": "craftpix/gui/free-tds-modern-gui-pixel-art",
+      "type": "ui",
+      "theme": [
+        "urban"
+      ],
+      "png_count": 98
+    },
+    "backgrounds/menu": {
+      "pack": "free-pixel-art-abandoned-places-background-collection",
+      "source": "craftpix",
+      "path": "craftpix/backgrounds/free-pixel-art-abandoned-places-background-collection",
+      "type": "background",
+      "theme": [
+        "generic"
+      ],
+      "png_count": 30
+    },
+    "backgrounds/game": {
+      "pack": "free-post-apocalyptic-pixel-art-game-backgrounds",
+      "source": "craftpix",
+      "path": "craftpix/backgrounds/free-post-apocalyptic-pixel-art-game-backgrounds",
+      "type": "background",
+      "theme": [
+        "generic"
+      ],
+      "png_count": 67
+    }
+  }
+}
